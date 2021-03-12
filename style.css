@@ -1,0 +1,19 @@
+.btn {
+    padding: 0 12px;
+    background: #327db0;
+    font-size: 12px;
+    border-radius: 4px;
+    border-color: #0d6bab;
+    color: #fff;
+    min-width: 120px;
+    height: 28px;
+    cursor: pointer;
+}
+.btn:hover {
+    background: #0d6bab;
+}
+
+.description > a {
+    font-size: 12px;
+    color: #8e8e8e;
+}
